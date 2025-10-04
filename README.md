@@ -2,9 +2,7 @@
 A strategic marketing project applying the STP (Segmentation, Targeting, Positioning) framework to Spinifex Skateboards. This analysis evaluates consumer insights, brand differentiation, and competitive positioning to deliver actionable growth strategies with a consulting-level approach.
 
 ## Company Description  
-Spinifex Skateboards was founded in Central Australia on **Eastern Arrernte Country**. It is more than just a skate brand — it integrates **Indigenous culture, community engagement, and creative expression** into its identity. Spinifex recognizes the heritage of Aboriginal and Torres Strait Islander peoples and reflects this respect in both its mission and design.  
-
-👉 [Spinifex Skateboards Website](https://www.spinifexskateboards.com/)  
+[Spinifex Skateboards](https://www.spinifexskateboards.com/) was founded in Central Australia on **Eastern Arrernte Country**. It is more than just a skate brand — it integrates **Indigenous culture, community engagement, and creative expression** into its identity. Spinifex recognizes the heritage of Aboriginal and Torres Strait Islander peoples and reflects this respect in both its mission and design.  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a11b891e-b24c-447d-80a4-99761e5ead80" alt="Untitled design" width="500" height="600">
